@@ -11,6 +11,17 @@
             "searchable": 0
         },
         {
+        "name": "索尼",
+        "hosts": [
+            "suonizy"
+        ],
+        "regex": [
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
+            "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
+        ]
+    },
+        {
             "key": "热播影视",
             "name": "热播｜少爷",
             "type": 3,
@@ -1387,3 +1398,4 @@
     ]
 
 }
+
