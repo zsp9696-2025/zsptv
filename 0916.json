@@ -5,14 +5,14 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣｜少爷",
+            "name": "龍哥｜0916",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "热播影视",
-            "name": "热播｜APP",
+            "name": "热播｜龍哥",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -24,7 +24,7 @@
         },
         {
             "key": "浪酷影视",
-            "name": "浪酷｜APP",
+            "name": "浪酷｜龍哥",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -36,7 +36,7 @@
         },
         {
             "key": "和友",
-            "name": "和友｜APP",
+            "name": "和友｜龍哥",
             "type": 3,
             "api": "csp_AppSy",
             "ext": {
@@ -49,7 +49,7 @@
         },
         {
             "key": "加菲",
-            "name": "加菲丨APP",
+            "name": "加菲丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -65,7 +65,7 @@
         },
         {
             "key": "咖啡",
-            "name": "咖啡丨APP",
+            "name": "咖啡丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -81,7 +81,7 @@
         },
         {
             "key": "哔滴",
-            "name": "哔滴丨APP",
+            "name": "哔滴丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -97,7 +97,7 @@
         },
         {
             "key": "云云",
-            "name": "云云｜APP",
+            "name": "云云｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -112,7 +112,7 @@
         },
         {
             "key": "若雪",
-            "name": "若雪丨APP",
+            "name": "若雪丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -127,7 +127,7 @@
         },
         {
             "key": "蓝鹰",
-            "name": "蓝鹰｜APP",
+            "name": "蓝鹰｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -142,7 +142,7 @@
         },
         {
             "key": "仓鼠",
-            "name": "仓鼠｜APP",
+            "name": "仓鼠｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -157,7 +157,7 @@
         },
         {
             "key": "鲸鱼",
-            "name": "鲸鱼｜APP",
+            "name": "鲸鱼｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -172,7 +172,7 @@
         },
         {
             "key": "一三",
-            "name": "一三丨APP",
+            "name": "一三丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -188,7 +188,7 @@
         },
         {
             "key": "热剧",
-            "name": "热剧丨APP",
+            "name": "热剧丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
@@ -204,7 +204,7 @@
         },
         {
             "key": "魔方",
-            "name": "魔方丨APP",
+            "name": "魔方丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -220,7 +220,7 @@
         },
         {
             "key": "稀饭",
-            "name": "稀饭丨APP",
+            "name": "稀饭丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -236,7 +236,7 @@
         },
         {
             "key": "爱看",
-            "name": "爱看丨APP",
+            "name": "爱看丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -252,7 +252,7 @@
         },
         {
             "key": "布雷",
-            "name": "布雷丨APP",
+            "name": "布雷丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -268,7 +268,7 @@
         },
         {
             "key": "五八",
-            "name": "五八丨APP",
+            "name": "五八丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -284,7 +284,7 @@
         },
         {
             "key": "狂人",
-            "name": "狂人丨APP",
+            "name": "狂人丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -300,7 +300,7 @@
         },
         {
             "key": "万能",
-            "name": "万能丨APP",
+            "name": "万能丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -316,7 +316,7 @@
         },
         {
             "key": "驿站",
-            "name": "驿站丨APP",
+            "name": "驿站丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -332,7 +332,7 @@
         },
         {
             "key": "外剧",
-            "name": "外剧丨APP",
+            "name": "外剧丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -348,7 +348,7 @@
         },
         {
             "key": "小猪",
-            "name": "小猪丨APP",
+            "name": "小猪丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -364,7 +364,7 @@
         },
         {
             "key": "爱影",
-            "name": "爱影丨APP",
+            "name": "爱影丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -381,7 +381,7 @@
         
         {
             "key": "蔬菜",
-            "name": "蔬菜丨APP",
+            "name": "蔬菜丨龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -397,7 +397,7 @@
         },
         {
             "key": "云端",
-            "name": "云端｜APP",
+            "name": "云端｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -412,7 +412,7 @@
         },
         {
             "key": "光影",
-            "name": "光影｜APP",
+            "name": "光影｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -426,7 +426,7 @@
         },
         {
             "key": "莱米",
-            "name": "莱米｜APP",
+            "name": "莱米｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -441,7 +441,7 @@
         },
         {
             "key": "灵虎",
-            "name": "灵虎｜APP",
+            "name": "灵虎｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -456,7 +456,7 @@
         },
         {
             "key": "旗星",
-            "name": "旗星｜APP",
+            "name": "旗星｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -471,7 +471,7 @@
         },
         {
             "key": "丫丫",
-            "name": "丫丫｜APP",
+            "name": "丫丫｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -486,7 +486,7 @@
         
         {
             "key": "云速",
-            "name": "云速｜APP",
+            "name": "云速｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -501,7 +501,7 @@
         },
         {
             "key": "萝卜",
-            "name": "萝卜｜APP",
+            "name": "萝卜｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -515,7 +515,7 @@
         },
         {
             "key": "米兔",
-            "name": "米兔｜APP",
+            "name": "米兔｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -529,7 +529,7 @@
         },
         {
             "key": "白蛇",
-            "name": "白蛇｜APP",
+            "name": "白蛇｜龍哥",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -544,7 +544,7 @@
         },
         {
             "key": "移动",
-            "name": "移动｜APP",
+            "name": "移动｜龍哥",
             "type": 3,
             "api": "csp_YD",
             "searchable": 1,
@@ -555,41 +555,41 @@
         },
         {
             "key": "腾讯视频",
-            "name": "腾讯｜视频",
+            "name": "腾讯｜龍哥",
             "type": 3,
             "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/TXSP.js"
         },
         {
             "key": "优酷视频",
-            "name": "优酷｜视频",
+            "name": "优酷｜龍哥",
             "type": 3,
             "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/YKSP.js"
         },
         {
             "key": "芒果视频",
-            "name": "芒果｜视频",
+            "name": "芒果｜龍哥",
             "type": 3,
             "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/MGSP.js"
         },
         {
             "key": "爱奇艺",
-            "name": "爱奇艺｜视频",
+            "name": "爱奇艺｜龍哥",
             "type": 3,
             "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/AQY.js"
         },
         {
             "key": "三六零",
-            "name": "三六零｜视频",
+            "name": "三六零｜龍哥",
             "type": 3,
             "api": "csp_SP360"
         },
         {
             "key": "天翼影视",
-            "name": "天翼｜影视",
+            "name": "天翼｜龍哥",
             "type": 1,
             "api": "http://7.qqqtv.top/api.php/provide/vod/",
             "searchable": 1,
@@ -605,7 +605,7 @@
         },
         {
             "key": "猎手影视",
-            "name": "猎手｜影视",
+            "name": "猎手｜龍哥",
             "type": 3,
             "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/LSYS.py",
             "searchable": 1,
@@ -615,7 +615,7 @@
         },
         {
             "key": "厂长影视",
-            "name": "厂长｜影视",
+            "name": "厂长｜龍哥",
             "type": 3,
             "playerType": "2",
             "api": "csp_Czsapp",
@@ -626,27 +626,27 @@
         },
         {
             "key": "金牌影视",
-            "name": "金牌｜影视",
+            "name": "金牌｜龍哥",
             "type": 3,
             "api": "csp_Jpys",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
         {
             "key": "云播影视",
-            "name": "云播｜影视",
+            "name": "云播｜龍哥",
             "type": 3,
             "api": "csp_Tvyb",
             "ext": "http://www.viptv01.com"
         },
         {
             "key": "奇优影视",
-            "name": "奇优｜影视",
+            "name": "奇优｜龍哥",
             "type": 3,
             "api": "csp_Qiyou"
         },
         {
             "key": "苹果影视",
-            "name": "苹果｜影视",
+            "name": "苹果｜龍哥",
             "type": 3,
             "api": "csp_LiteApple",
             "searchable": 1,
@@ -655,20 +655,20 @@
         },
         {
             "key": "全网影视",
-            "name": "全看｜影视",
+            "name": "全看｜龍哥",
             "type": 3,
             "api": "csp_Quanwk",
             "ext": "https://www.91qkw.com"
         },
         {
             "key": "饺子影视",
-            "name": "饺子｜影视",
+            "name": "饺子｜龍哥",
             "type": 3,
             "api": "csp_Jiaozi"
         },
         {
             "key": "低端影视",
-            "name": "低端｜影视",
+            "name": "低端｜龍哥",
             "type": 3,
             "api": "csp_Ddys",
             "searchable": 1,
@@ -677,7 +677,7 @@
         },
         {
             "key": "瓜子影视",
-            "name": "瓜子｜影视",
+            "name": "瓜子｜龍哥",
             "type": 3,
             "api": "csp_Gz360",
             "searchable": 1,
@@ -686,7 +686,7 @@
         },
         {
             "key": "骚火影视",
-            "name": "骚火｜影视",
+            "name": "骚火｜龍哥",
             "type": 3,
             "api": "csp_SaoHuo",
             "playerType": 2,
@@ -694,21 +694,21 @@
         },
         {
             "key": "农民影视",
-            "name": "农民｜影视",
+            "name": "农民｜龍哥",
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn"
         },
         {
             "key": "采集之王",
-            "name": "采集｜合集",
+            "name": "采集｜龍哥",
             "type": 3,
             "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/CJZW.js?type=url&params=https://gitee.com/PizazzXS/another-d/raw/master/movie/json/CJJT.json$1$1"
         },
         {
             "key": "爱看机器人",
-            "name": "爱看｜影视",
+            "name": "爱看｜龍哥",
             "type": 3,
             "api": "csp_Ikanbot",
             "searchable": 1,
@@ -717,42 +717,42 @@
         },
         {
             "key": "面包影视",
-            "name": "面包｜影视",
+            "name": "面包｜龍哥",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/MBYS.json"
         },
         {
             "key": "永乐影视",
-            "name": "永乐｜影视",
+            "name": "永乐｜龍哥",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/YLYS.json"
         },
         {
             "key": "雪糕影视",
-            "name": "雪糕｜影视",
+            "name": "雪糕｜龍哥",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/XGYS.json"
         },
         {
             "key": "三九影视",
-            "name": "三九｜影视",
+            "name": "三九｜龍哥",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/SJYS.json"
         },
         {
             "key": "剧圈圈",
-            "name": "剧圈｜影视",
+            "name": "剧圈｜龍哥",
             "type": 3,
             "api": "https://gitee.com/PizazzXS/another-d/raw/master/js/drpy2.min.js",
             "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/js/JQQ.js"
         },
         {
             "key": "1905",
-            "name": "1905｜影视",
+            "name": "1905｜龍哥",
             "type": 3,
             "api": "csp_Web1905",
             "searchable": 1,
@@ -761,21 +761,21 @@
         },
         {
             "key": "荐片",
-            "name": "荐片｜磁力",
+            "name": "荐片｜龍哥",
             "api": "csp_Jianpian",
             "type": 3,
             "ext": "https://api.ztcgi.com"
         },
         {
             "key": "修罗",
-            "name": "修罗｜磁力",
+            "name": "修罗｜龍哥",
             "api": "csp_Xlys",
             "type": 3,
             "ext": "https://xl01.com.de"
         },
         {
             "key": "七味",
-            "name": "七味｜磁力",
+            "name": "七味｜龍哥",
             "type": 3,
             "api": "csp_QnMp4",
             "searchable": 1,
@@ -787,7 +787,7 @@
         },
         {
             "key": "80S",
-            "name": "80S｜磁力",
+            "name": "80S｜龍哥",
             "type": 3,
             "api": "csp_BLSGod",
             "playerType": 1,
@@ -797,7 +797,7 @@
         },
         {
             "key": "New6v",
-            "name": "New6V｜磁力",
+            "name": "New6V｜龍哥",
             "type": 3,
             "api": "csp_New6v",
             "searchable": 1,
@@ -807,7 +807,7 @@
         },
         {
             "key": "美剧迷",
-            "name": "美剧迷｜磁力",
+            "name": "美剧迷｜龍哥",
             "type": 3,
             "api": "csp_MeijuMi",
             "searchable": 1,
@@ -816,7 +816,7 @@
         },
         {
             "key": "迅雷吧",
-            "name": "迅雷吧｜磁力",
+            "name": "迅雷吧｜龍哥",
             "type": 3,
             "api": "csp_Xunlei8",
             "searchable": 1,
@@ -825,7 +825,7 @@
         },
         {
             "key": "电影港",
-            "name": "电影港｜磁力",
+            "name": "电影港｜龍哥",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -835,7 +835,7 @@
         },
         {
             "key": "狐狸君",
-            "name": "狐狸君｜磁力",
+            "name": "狐狸君｜龍哥",
             "type": 3,
             "api": "csp_XBPQ",
             "changeable": 1,
@@ -846,7 +846,7 @@
         },
         {
             "key": "Mp4电影",
-            "name": "Mp4电影｜磁力",
+            "name": "Mp4电影｜龍哥",
             "type": 3,
             "api": "csp_Mp4Mov",
             "searchable": 1,
@@ -855,7 +855,7 @@
         },
         {
             "key": "美剧天堂",
-            "name": "美剧天堂｜磁力",
+            "name": "美剧天堂｜龍哥",
             "type": 3,
             "api": "csp_MeijuTT",
             "searchable": 1,
@@ -864,7 +864,7 @@
         },
         {
             "key": "电影天堂",
-            "name": "电影天堂｜磁力",
+            "name": "电影天堂｜龍哥",
             "type": 3,
             "api": "csp_DyGod",
             "searchable": 1,
