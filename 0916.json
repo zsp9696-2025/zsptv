@@ -5,14 +5,14 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣｜首页",
+            "name": "少爷｜0916",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "热播影视",
-            "name": "热播｜APP",
+            "name": "热播｜少爷",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -24,7 +24,7 @@
         },
         {
             "key": "浪酷影视",
-            "name": "浪酷｜APP",
+            "name": "浪酷｜少爷",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -36,7 +36,7 @@
         },
         {
             "key": "和友",
-            "name": "和友｜APP",
+            "name": "和友｜少爷",
             "type": 3,
             "api": "csp_AppSy",
             "ext": {
@@ -1385,4 +1385,5 @@
     "ads": [
         "static-mozai.4gtv.tv"
     ]
+
 }
