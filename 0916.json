@@ -345,23 +345,7 @@
                 "version": "",
                 "ua": ""
             }
-        },
-        {
-            "key": "小猪",
-            "name": "小猪丨龍哥",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://xz4k.top/url.txt",
-                "dataKey": "1785acb6c963184b",
-                "dataIv": "1785acb6c963184b",
-                "deviceId": "",
-                "version": "",
-                "ua": ""
-            }
-        },
+        },
         {
             "key": "爱影",
             "name": "爱影丨龍哥",
